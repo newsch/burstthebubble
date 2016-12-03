@@ -244,3 +244,20 @@ defaults:
       comments: true
       share: true
       related: true
+  # _why
+  - scope:
+      path: ""
+      type: why
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: true
+      sidebar:
+        nav: "why"
+
+# Collections
+collections:
+  why:
+    output: true
+    permalink: /:collection/:path/

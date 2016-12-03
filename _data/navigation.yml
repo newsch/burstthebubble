@@ -2,6 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Why?"
+    url: /why/part_1/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +12,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+# why
+why:
+  - title: "Why?"
+    children:
+      - title: "Part One"
+        url: /why/part_1/
+      - title: "Part Two"
+        url: /why/part_2/
