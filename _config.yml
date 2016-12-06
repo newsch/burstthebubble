@@ -255,6 +255,12 @@ defaults:
       comments: true
       sidebar:
         nav: "why"
+      header:
+        image: /assets/images/temp.jpg
+        caption: "Photo credit: [Internet](https://images.google.com)"
+        overlay_filter: 0.5
+        cta_label: "Get Started!"
+        cta_url: /why/part_1
 
 # Collections
 collections:
