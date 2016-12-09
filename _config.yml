@@ -256,8 +256,8 @@ defaults:
       sidebar:
         nav: "why"
       header:
-        image: /assets/images/temp.jpg
-        caption: "Photo credit: [Internet](https://images.google.com)"
+        image: http://www.olin.edu/sites/default/files/styles/ssfp_slide/public/campus-trees-fall.jpg?itok=8cwmg6tC)
+        caption: "Photo credit: Olin College"
         overlay_filter: 0.5
         cta_label: "Get Started!"
         cta_url: /why/part_1

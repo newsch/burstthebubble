@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Why?"
-    url: /why/part_1/
+  - title: "Get Started"
+    url: /why/introduction/
+  - title: "Three College Collaboration"
+    url: http://www.bow3colleges.org/
+  - title: "BOW Calendar"
+    url: http://www.bow3colleges.org/node/61
+  - title: "GoBike Program"
+    url: http://www.olin.edu/student-affairs-and-resources/community-bicycle-program/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -16,9 +20,13 @@ main:
 
 # why
 why:
-  - title: "Why?"
+  - title: "Getting Started"
     children:
-      - title: "Part One"
-        url: /why/part_1/
-      - title: "Part Two"
-        url: /why/part_2/
+      - title: "Introduction"
+        url: /why/introduction/
+      - title: "Transportation"
+        url: /why/transportation/
+      - title: "Opportunities"
+        url: /why/opportunities/
+      - title: "Outcomes"
+        url: /why/opportunities/
